@@ -7,7 +7,7 @@ subtitle: PhD Student at UNC Chapel Hill
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
 
 news: false # includes a list of news items
