@@ -4,7 +4,7 @@
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: ‪valeriepolad # your bluesky URL
+bluesky_url: https://bsky.app/profile/valeriepolad.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: vpolad@unc.edu # your email address
@@ -24,12 +24,12 @@ email: vpolad@unc.edu # your email address
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0002-8401-6303 # https://orcid.org/0000-0002-8401-6303
-osf_id: https://osf.io/m9yd6/ # https://osf.io/profile/
+# osf_id: https://osf.io/m9yd6/ # https://osf.io/profile/
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+# rss_icon: false # set to true to show the RSS icon
 scholar_userid: UWOqyIgAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
