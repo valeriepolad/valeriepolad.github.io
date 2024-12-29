@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at UNC Chapel Hill
+subtitle: Quant Psych PhD Student at UNC Chapel Hill
 
 profile:
   align: right
