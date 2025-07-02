@@ -4,7 +4,7 @@ permalink: /materials/
 title: materials
 nav: true
 nav_order: 6
-description: A collection of project materials and supplementary documents.
+description: 
 ---
 
 <div class="publications">
@@ -14,7 +14,7 @@ description: A collection of project materials and supplementary documents.
       <a href="{{ item.path | relative_url }}" target="_blank" class="btn btn-sm z-depth-0" role="button" title="Download PDF">
         PDF
       </a>
-      Valerie Polad. (2023). <em>Title of Your Thesis Here.</em> University Name.
+    <em>Mediation Analysis Using Saturated and Restricted Models.</em> UNC Chapel Hill.
     {%- endif -%}
   {%- endfor -%}
 </div>
