@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Quant Psych PhD Student at UNC Chapel Hill
+subtitle: Quantitative Psychology PhD Student at UNC Chapel Hill
 
 profile:
   align: right
@@ -15,6 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a quantitative psychology graduate student at UNC Chapel Hill interested in multilevel models, longitudinal data analysis, and structural equation modeling (SEM). I received a BA in Psychology from UCLA in 2020, with a minor in Cognitive Science and specialization in computing.
-
-This page is very much not finished yet :)
+Hi! I'm a quantitative psychology graduate student at UNC Chapel Hill interested in multilevel models, longitudinal data analysis, and structural equation modeling (SEM). I received a BA in Psychology from UCLA in 2020, with a minor in Cognitive Science and specialization in computing. I then recieved my Masters in Psychology at UNC in 2025.
